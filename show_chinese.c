@@ -19,7 +19,7 @@ typedef struct RGBimagedata{
 		char g;
 		char b;
 		
-	}RGBimagedata;	
+	}RGBimagedata;	//储存rgb
 
 typedef struct {
     uint32_t biSize;            //从这里开始到结构体结束总共的字节数
